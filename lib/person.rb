@@ -12,7 +12,6 @@ class Person
 
 end
 
-
 person = Person.new
 person.name = "Kaia"
 puts person.name
