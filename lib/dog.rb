@@ -17,4 +17,4 @@ class Dog
 end
 
 dog = Dog.new("kaia", "Corgi")
-puts person.name
+puts dog.name
